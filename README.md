@@ -50,3 +50,8 @@ after installing flask we install dashboard to input the code for making the tab
 make directory for the template which we are going to create , in html - the code of html is present in the process branch , file named as HTML code - this is for the user interface
 <img width="752" height="286" alt="image" src="https://github.com/user-attachments/assets/8524c548-c46f-40bb-b39a-a2cd7e8fcc98" />
 
+<img width="1376" height="358" alt="image" src="https://github.com/user-attachments/assets/d2df3a82-c39c-4dc4-81f3-ee7897aaa4aa" />
+
+you will have an interface like this or if you want to customize your design you can do so , 
+<img width="1376" height="746" alt="image" src="https://github.com/user-attachments/assets/1a1399ec-c740-4d54-a3cc-e94f04eaa7dd" />
+
