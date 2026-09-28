@@ -31,5 +31,18 @@ install git and gitclone the python file for automation
 get inside the file and make it run 
 <img width="1038" height="212" alt="image" src="https://github.com/user-attachments/assets/854b804f-6e57-4b23-962e-6080ea2f6e96" />
 in order to see packets, u need to open any browser or , in another terminal you need to ping "192.168.4.1.."{this is the usual avivity done by hackers to get into your system, burst of ipaddresses}
+get inside your python code and 
+<img width="902" height="291" alt="image" src="https://github.com/user-attachments/assets/04c1af39-741a-4249-9000-34104851654e" />
 
+now run the automation which you created (in my case i have used an ai automated code which fetches it's data from wireshark and displays it in the terminal for now , orelse can make a different interface at localhost or a workable online link
+<img width="1297" height="126" alt="image" src="https://github.com/user-attachments/assets/bb9b1ec9-7662-4b31-b520-ebd12d4fd68b" />
 
+[ recieved an error to list the interface as we didn't speicfy it earlier ]
+
+running it again with the specified network interface name {we used -i to exactly point at eth0 instead of toggling to different network interfaces}
+<img width="1373" height="342" alt="image" src="https://github.com/user-attachments/assets/72902b7e-5d70-45e2-be5f-5be3609cbf86" />
+
+installing flask on the virtual environment to make it represantable 
+<img width="1352" height="213" alt="image" src="https://github.com/user-attachments/assets/6fcc790b-e0d0-4cd1-96b2-4dcfa521f559" />
+
+after installing flask we install dashboard to input the code for making the table - the code pasted will be in the branch named ,"Dashboard code".
