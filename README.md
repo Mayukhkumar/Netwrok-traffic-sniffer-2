@@ -46,3 +46,7 @@ installing flask on the virtual environment to make it represantable
 <img width="1352" height="213" alt="image" src="https://github.com/user-attachments/assets/6fcc790b-e0d0-4cd1-96b2-4dcfa521f559" />
 
 after installing flask we install dashboard to input the code for making the table - the code pasted will be in the branch named ,"Dashboard code".
+
+make directory for the template which we are going to create , in html - the code of html is present in the process branch , file named as HTML code
+<img width="752" height="286" alt="image" src="https://github.com/user-attachments/assets/8524c548-c46f-40bb-b39a-a2cd7e8fcc98" />
+
