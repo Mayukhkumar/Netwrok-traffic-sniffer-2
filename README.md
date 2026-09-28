@@ -47,6 +47,6 @@ installing flask on the virtual environment to make it represantable
 
 after installing flask we install dashboard to input the code for making the table - the code pasted will be in the branch named ,"Dashboard code".
 
-make directory for the template which we are going to create , in html - the code of html is present in the process branch , file named as HTML code
+make directory for the template which we are going to create , in html - the code of html is present in the process branch , file named as HTML code - this is for the user interface
 <img width="752" height="286" alt="image" src="https://github.com/user-attachments/assets/8524c548-c46f-40bb-b39a-a2cd7e8fcc98" />
 
