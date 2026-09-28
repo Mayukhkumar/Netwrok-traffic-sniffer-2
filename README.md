@@ -26,4 +26,10 @@ installing tools in the virtual environment
 the process in line 10 can be ignored if you are solely doing it in virtual environment 
 
 install git and gitclone the python file for automation
+<img width="852" height="316" alt="image" src="https://github.com/user-attachments/assets/ab5d7184-99ec-41da-9893-8d1a374a5520" />
+
+get inside the file and make it run 
+<img width="1038" height="212" alt="image" src="https://github.com/user-attachments/assets/854b804f-6e57-4b23-962e-6080ea2f6e96" />
+in order to see packets, u need to open any browser or , in another terminal you need to ping "192.168.4.1.."{this is the usual avivity done by hackers to get into your system, burst of ipaddresses}
+
 
